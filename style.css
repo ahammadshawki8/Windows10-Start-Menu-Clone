@@ -125,6 +125,10 @@ footer {
 
 @media (max-width: 480px){
     .container{
-        width:  100%
+        width:  100%;
+    }
+
+    .side-app img{
+        width: 230px;
     }
 }
