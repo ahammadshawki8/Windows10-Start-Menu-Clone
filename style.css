@@ -113,14 +113,14 @@ footer {
 
 @media(max-width: 1150px){
     #main #secondary {
-        opacity: 0;
+        display: none;
         margin-left: -400px;
     }
 }
 
 @media(max-width: 918px){
     #main #primary {
-        opacity: 0;
+        display: none;
         margin-left: -500px;
     }
 
